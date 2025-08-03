@@ -1,6 +1,9 @@
 [theme]
-primaryColor="#2E8B57"
-backgroundColor="#F5F5F5"
-secondaryBackgroundColor="#E0EEEE"
-textColor="#333333"
-font="sans serif"
+primaryColor = "#2E8B57"               # Calming green for buttons and focus highlights
+backgroundColor = "#FFFFFF"            # Crisp white background for contrast
+secondaryBackgroundColor = "#F0F4F8"   # Soft grey-blue for panels and expanders
+textColor = "#1F1F1F"                  # Deep gray for improved readability
+font = "sans serif"                    # Clean and contemporary
+
+[global]
+hideSidebarNav = true                  # Optional: removes sticky sidebar nav if unused
