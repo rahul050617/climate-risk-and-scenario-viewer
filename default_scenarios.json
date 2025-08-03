@@ -30,17 +30,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050",
-      "Physical Risks: Lower, as warming is limited to ~1.5°C. Crop zones shift less, and extreme events are less frequent.",
-      "Transition Risks: Very high. Rapid policy changes, high carbon prices, and strict sustainability mandates require immediate adaptation and investment in new technologies.",
+      "Physical Risks: With warming capped at ~1.5°C, the sector experiences relatively mild climate impacts. Extreme weather events are less frequent, and crop zones remain largely stable, reducing disruption to supply chains and productivity. Most infrastructure remains viable, though some regions may still require climate-smart adjustments.",
+      "Transition Risks: These are severe under NZE. The sector faces rapid policy reforms, aggressive carbon pricing, and strict sustainability mandates. Decarbonization is non-negotiable, with firms needing swift investment in clean technologies and data transparency. The pace of change rewards early movers but penalizes laggards.",
       "IEA STEPS",
-      "Physical Risks: Moderate. Warming of ~2.5°C leads to significant chronic and acute impacts—more frequent droughts, heatwaves, and shifting crop zones.",
-      "Transition Risks: Moderate. Policy changes are incremental and regionally varied, with gradual increases in compliance costs and technology adoption.",
+      "Physical Risks: At ~2.5°C warming, risks intensify but vary by location. Droughts, heat stress, and crop volatility affect key production zones, requiring gradual adaptation in infrastructure, land use, and water management. Climate impacts are persistent but not yet catastrophic.",
+      "Transition Risks: Policy shifts, and sustainability pressures emerge more slowly. Regulations evolve unevenly across regions, allowing flexible timelines for adaptation. Compliance costs rise modestly, with moderate investment in green technologies and ESG practices becoming a norm rather than a strategic advantage.",
       "IPCC SSP2-4.5",
-      "Physical Risks: Similar to STEPS, with ~2.7°C warming. Substantial adaptation is required as many regions face conditions outside historical norms.",
-      "Transition Risks: Moderate. Some climate action, but not enough for net zero. Pressure to cut emissions and adopt new practices grows steadily.",
+      "Physical Risks: Warming of ~2.7°C introduces serious disruptions. Climatic conditions diverge from historical norms, undermining productivity in sensitive zones. Infrastructure strain and land-use adjustments become increasingly urgent, especially for resource-intensive operations.",
+      "Transition Risks: The sector faces mounting pressure for emissions reduction and climate disclosures. Actions remain fragmented globally, but reputational, regulatory, and investor expectations grow steadily. Firms must balance adaptation with long-term climate alignment to preserve market relevance.",
       "IPCC SSP5-8.5",
-      "Physical Risks: Severe. Warming of ~4.4°C causes widespread crop failures, land loss, and frequent extreme events. One-third of current cropland could become unsuitable by 2100.",
-      "Transition Risks: Low initially, as few climate policies are implemented. However, late, reactive policy shifts may occur as crises escalate."
+      "Physical Risks: With ~4.4°C warming, the sector encounters extreme conditions—frequent crop failures, water scarcity, and degraded land render many regions unsuitable for production. The cumulative impact forces drastic operational relocations and resilience planning.",
+      "Transition Risks: Initially minimal due to weak climate governance, creating a false sense of security. However, worsening physical conditions can trigger sudden regulatory backlashes, leaving unprepared firms exposed to abrupt costs, stranded assets, and urgent technology pivots."
     ]
   },
   "Sector: Animal production": {
@@ -75,16 +75,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Physical risks are lower; heat and water stress are less severe, and disease outbreaks are less frequent.",
-      "Transition risks are very high: strict methane and land-use regulations, rapid technology adoption, and strong market shifts toward alternative proteins.",
+      "Physical Risks: Limiting warming to ~1.5°C reduces climate stress on livestock. Heatwaves and water scarcity occur less frequently, and the risk of disease outbreaks declines, preserving animal health and pasture viability. Infrastructure remains largely resilient with minimal retrofits.",
+      "Transition Risks: Regulatory pressure skyrockets under this scenario. Methane emissions face strict limits, land-use is tightly controlled, and there's rapid enforcement of low-carbon production methods. Technology upgrades and shifts to alternative proteins challenge traditional producers to evolve or exit.",
       "IEA STEPS:",
-      "Moderate physical risks: more frequent heatwaves, droughts, and disease outbreaks.",
-      "Moderate transition risks: incremental policy changes, gradual technology adoption, and steady market evolution.",
+      "Physical Risks: Warming around ~2.5°C introduces moderate stress. More frequent heatwaves and droughts strain animal welfare and feed supply, while disease risks rise due to changing climate zones. Adaptation is needed, but impacts vary regionally.",
+      "Transition Risks: Climate action is slow and fragmented. Methane regulation and land-use policies develop incrementally, giving producers time to adapt. Technology adoption and market evolution progress gradually, with moderate incentives driving change rather than mandates.",
       "IPCC SSP2-4.5:",
-      "Similar to STEPS: significant adaptation needed for chronic heat and water stress, and moderate transition pressures.",
+      "Physical Risks: At ~2.7°C warming, chronic heat and water stress become widespread, putting pressure on animal productivity and welfare. Disease burdens grow, and some areas may need to shift production or intensify cooling and water management systems.",
+      "Transition Risks: Though more ambitious than STEPS, policy alignment is still uneven. Methane targets tighten modestly, and ESG disclosures gain traction. Producers face growing stakeholder expectations but retain flexibility in how and when they comply.",
       "IPCC SSP5-8.5:",
-      "Severe physical risks: chronic heat and drought make large areas unsuitable for livestock, frequent disasters, and high disease burden.",
-      "Transition risks are low initially, but late, reactive policy shifts may occur as crises escalate."
+      "Physical Risks: Severe warming (~4.4°C) presents existential threats. Vast regions may become inhospitable for livestock due to heat stress, drought, and disease outbreaks. Livestock mortality, feed shortages, and relocation costs surge.",
+      "Transition Risks: Initially low, giving producers a false sense of security. But as climate impacts intensify, reactive policy shifts may be abrupt—introducing costly compliance overnight. Without early planning, adaptation becomes chaotic and expensive."
     ]
   },
   "Sector: Forestry and logging": {
@@ -118,16 +119,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Physical risks are minimized; forests remain largely resilient, with fewer catastrophic fires and pest outbreaks.",
-      "Transition risks are very high: strict protection policies, high carbon prices, and rapid technology adoption.",
+      "Physical Risks: Under ~1.5°C warming, forest ecosystems face milder climate stress. Wildfire risk, pest outbreaks, and biodiversity loss are less severe, allowing for stable timber yields and manageable conservation efforts. Most forest infrastructure can adapt with minimal disruption.",
+      "Transition Risks: Regulations intensify quickly. Deforestation controls, biodiversity mandates, and carbon accounting standards drive major shifts in logging practices. Markets move rapidly toward certified sustainable products, and companies must invest in tracking, restoration, and ecosystem services.",
       "IEA STEPS:",
-      "Moderate physical risks: more frequent fires, pest outbreaks, and droughts.",
-      "Moderate transition risks: gradual tightening of regulations and market demand for sustainable wood.",
+      "Physical Risks: Warming of ~2.5°C increases vulnerability to droughts, fires, and pest infestations. Forest health becomes more variable, and timber production faces regional declines. Long-term planning and adaptive forest management have become essential.",
+      "Transition Risks: Policies evolve slowly and unevenly. Certification standards and emissions reporting requirements expand gradually, with moderate pressure to reduce deforestation and increase reforestation. Traditional logging practices remain viable, but proactive firms gain resilience and reputational advantage.",
       "IPCC SSP2-4.5:",
-      "Similar to STEPS: significant adaptation needed for chronic and acute risks, and moderate transition pressures.",
+      "Physical Risks: At ~2.7°C, chronic heat and water stress degrade forest ecosystems and boost fire and disease risk. Logging operations in sensitive regions face rising unpredictability and yield losses, prompting shifts toward adaptive silviculture and fire-resilient strategies.",
+      "Transition Risks: Emissions scrutiny grows, especially for land-use sectors. ESG mandates tighten, and demand for traceable, climate-positive forestry practices accelerates. Compliance remains flexible in some markets, but global buyers increasingly favor responsible producers.",
       "IPCC SSP5-8.5:",
-      "Severe physical risks: widespread forest loss, catastrophic fires, and ecosystem collapse.",
-      "Transition risks are low initially, but late, reactive policy shifts may occur as crises escalate."
+      "Physical Risks: Extreme warming (~4.4°C) leads to widespread forest degradation, frequent megafires, and habitat collapse. Logging becomes unviable in many zones due to tree mortality, access disruption, and ecosystem instability. Long-term timber supply is endangered.",
+      "Transition Risks: Regulatory action is minimal early on, but ecological crises trigger reactive and potentially disruptive interventions—bans, penalties, or emergency conservation laws. Firms without sustainable foundations face abrupt operating constraints and market exclusion."
     ]
   },
   "Sector: Oil & gas extraction": {
@@ -166,17 +168,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: The sector faces a rapid, near-existential contraction. New exploration and development are essentially halted after 2021. By 2030–2040, many existing fields are retired early as global oil demand plummets (down ~75% by 2050). Only the lowest-cost, lowest-emission producers survive, and even they must pivot to carbon capture, hydrogen, or renewables to remain viable. Companies that fail to diversify or decarbonize are left with stranded assets and face mass layoffs, write-downs, and loss of investor support.",
-      "Physical: Physical risks are relatively contained; companies invest heavily in resilience for remaining assets (e.g., flood-proofing, permafrost stabilization), but the scale of operations is much smaller.",
+      "Transition Risks: The sector faces a rapid, near-existential contraction. New exploration and development are essentially halted after 2021. By 2030–2040, many existing fields are retired early as global oil demand plummets (down ~75% by 2050). Only the lowest-cost, lowest-emission producers survive, and even they must pivot to carbon capture, hydrogen, or renewables to remain viable. Companies that fail to diversify or decarbonize are left with stranded assets and face mass layoffs, write-downs, and loss of investor support.",
+      "Physical Risks: Physical risks are relatively contained; companies invest heavily in resilience for remaining assets (e.g., flood-proofing, permafrost stabilization), but the scale of operations is much smaller.",
       "IEA STEPS:",
-      "Transition: Oil and gas demand plateaus and then declines slowly. Companies can continue to operate and invest in new projects, but must steadily improve methane management, reduce flaring, and comply with moderate carbon pricing. High-cost, high-emission projects (e.g., oil sands, Arctic) become less attractive. Companies that invest in efficiency and partial diversification (e.g., LNG, blue hydrogen) remain competitive, but those that ignore transition trends risk gradual loss of market share and higher financing costs.",
-      "Physical: More frequent hurricanes, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in the Gulf of Mexico, Middle East, and Arctic. Companies must invest in adaptation, but most assets remain operable.",
+      "Transition Risks: Oil and gas demand plateaus and then declines slowly. Companies can continue to operate and invest in new projects, but must steadily improve methane management, reduce flaring, and comply with moderate carbon pricing. High-cost, high-emission projects (e.g., oil sands, Arctic) become less attractive. Companies that invest in efficiency and partial diversification (e.g., LNG, blue hydrogen) remain competitive, but those that ignore transition trends risk gradual loss of market share and higher financing costs.",
+      "Physical Risks: More frequent hurricanes, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in the Gulf of Mexico, Middle East, and Arctic. Companies must invest in adaptation, but most assets remain operable.",
       "IPCC SSP2-4.5:",
-      "Transition: Similar to STEPS, but with more global coordination. By 2050, most major producers have diversified portfolios (including renewables and hydrogen), and carbon capture is deployed at scale in some regions. Companies that fail to decarbonize or diversify face higher insurance and financing costs and lose access to premium markets.",
-      "Physical: Severe storms, droughts, and permafrost thaw cause more frequent disruptions, especially in Asia, the US, and Russia. Some older or high-risk assets are retired early.",
+      "Transition Risks: Similar to STEPS, but with more global coordination. By 2050, most major producers have diversified portfolios (including renewables and hydrogen), and carbon capture is deployed at scale in some regions. Companies that fail to decarbonize or diversify face higher insurance and financing costs and lose access to premium markets.",
+      "Physical Risks: Severe storms, droughts, and permafrost thaw cause more frequent disruptions, especially in Asia, the US, and Russia. Some older or high-risk assets are retired early.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major oil and gas hubs (e.g., Houston, Middle East, Arctic) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive retrofits or closures, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major oil and gas hubs (e.g., Houston, Middle East, Arctic) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive retrofits or closures, catching unprepared companies off guard."
     ]
   },
   "Sector: Mining (except oil & gas)": {
@@ -305,16 +307,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Physical risks are lower; infrastructure faces fewer catastrophic events.",
-      "Transition risks are extremely high: rapid changes in standards, materials, and practices; high compliance costs; strong market preference for resilient, green infrastructure.",
+      "Physical Risks: At ~1.5°C warming, physical disruptions are moderate. Some project sites face minor increases in flood or storm exposure, but most large-scale infrastructure can be planned and built with climate resilience in mind. Construction schedules are largely stable.",
+      "Transition Risks: Rapid decarbonization reshapes procurement and design standards. Embodied carbon limits drive adoption of low-carbon materials, and clients favor firms with net-zero plans. Infrastructure bids increasingly require ESG disclosures, circularity plans, and emissions accounting.",
       "IEA STEPS:",
-      "Moderate physical risks: more frequent weather disruptions and higher maintenance costs.",
-      "Moderate transition risks: incremental tightening of standards and steady market evolution.",
+      "Physical Risks: Warming closer to ~2.5°C brings uneven site-level risks—especially from heatwaves, floods, and soil degradation. Equipment performance and worker safety face challenges, calling for adaptive scheduling and resilience-enhancing designs.",
+      "Transition Risks: Carbon targets tighten slowly. Some clients begin asking for emissions profiles and green procurement, but most firms still operate under traditional practices. Early movers gain a reputational edge as governments phase in ESG-linked infrastructure funding.",
       "IPCC SSP2-4.5:",
-      "Similar to STEPS: significant adaptation needed for chronic and acute risks, and moderate transition pressures.",
+      "Physical Risks: Around ~2.7°C warming, construction sites encounter higher disruption from extreme weather, including delayed timelines and cost overruns due to flooding, heat, and material availability. Coastal and low-lying infrastructure face elevated design complexity.",
+      "Transition Risks: ESG and carbon accounting pressures mount. Infrastructure owners increasingly demand lifecycle emissions tracking, recycled inputs, and climate-resilient features. Firms not adapting face procurement barriers and declining market favorability.",
       "IPCC SSP5-8.5:",
-      "Severe physical risks: frequent disasters, infrastructure loss, and high costs for repairs and retrofits.",
-      "Transition risks are low initially, but late, reactive policy shifts may occur as crises escalate."
+      "Physical Risks: At ~4.4°C, climate extremes severely impact construction logistics, labor productivity, and infrastructure durability. Project viability in exposed regions drops, and maintenance costs soar. Some areas may be deemed too risky for long-term builds.",
+      "Transition Risks: Regulatory inertia persists until crises trigger abrupt changes, extreme heat, infrastructure failures, or public outcry push sudden mandates. Firms lacking sustainability controls face project cancellations, insurance issues, or exclusion from key tenders."
     ]
   },
   "Sector: Food manufacturing": {
@@ -349,17 +352,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: Food manufacturers must rapidly decarbonize operations, adopt renewable energy, and ensure zero-deforestation, traceable supply chains. High carbon prices and strict emissions rules force reformulation of products (e.g., less red meat, more plant-based), sustainable packaging, and investment in climate-resilient sourcing. Companies that fail to adapt lose access to major retailers and export markets.",
-      "Physical: Physical risks are lower; ingredient supply is more stable, and extreme events are less frequent. Companies invest in resilient supply chains and water-saving technologies.",
+      "Transition Risks: Food manufacturers must rapidly decarbonize operations, adopt renewable energy, and ensure zero-deforestation, traceable supply chains. High carbon prices and strict emissions rules force reformulation of products (e.g., less red meat, more plant-based), sustainable packaging, and investment in climate-resilient sourcing. Companies that fail to adapt lose access to major retailers and export markets.",
+      "Physical Risks: Physical risks are lower; ingredient supply is more stable, and extreme events are less frequent. Companies invest in resilient supply chains and water-saving technologies.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to reduce emissions, improve efficiency, and source sustainable ingredients. Early movers in sustainable products and packaging gain market share, but legacy products persist in many regions.",
-      "Physical: More frequent supply disruptions and price volatility due to droughts, floods, and crop failures. Companies must diversify sourcing and invest in resilience, but most operations remain viable.",
+      "Transition Risks: Companies face moderate pressure to reduce emissions, improve efficiency, and source sustainable ingredients. Early movers in sustainable products and packaging gain market share, but legacy products persist in many regions.",
+      "Physical Risks: More frequent supply disruptions and price volatility due to droughts, floods, and crop failures. Companies must diversify sourcing and invest in resilience, but most operations remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most food manufacturers in developed markets must meet minimum sustainability standards for sourcing, packaging, and emissions. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk facilities are retired early.",
+      "Transition Risks: By 2050, most food manufacturers in developed markets must meet minimum sustainability standards for sourcing, packaging, and emissions. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk facilities are retired early.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic crop failures, water shortages, and supply chain chaos become common. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major food-producing regions face repeated disasters, leading to persistent ingredient shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic crop failures, water shortages, and supply chain chaos become common. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major food-producing regions face repeated disasters, leading to persistent ingredient shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes."
     ]
   },
   "Sector: Beverage and tobacco product manufacturing": {
@@ -442,17 +445,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2040, textile mills must electrify processes, use renewable energy, and adopt waterless dyeing and circular economy practices. Only mills with certified sustainable, low-carbon, and traceable supply chains retain access to global brands and export markets. Companies that fail to decarbonize or invest in water recycling and sustainable fibers (e.g., organic cotton, recycled polyester) are shut out of premium markets and face high carbon costs.",
-      "Physical: Physical risks are lower; fiber supply is more stable, and water stress is less severe. Mills invest in climate-resilient infrastructure and diversified sourcing.",
+      "Transition Risks: By 2030–2040, textile mills must electrify processes, use renewable energy, and adopt waterless dyeing and circular economy practices. Only mills with certified sustainable, low-carbon, and traceable supply chains retain access to global brands and export markets. Companies that fail to decarbonize or invest in water recycling and sustainable fibers (e.g., organic cotton, recycled polyester) are shut out of premium markets and face high carbon costs.",
+      "Physical Risks: Physical risks are lower; fiber supply is more stable, and water stress is less severe. Mills invest in climate-resilient infrastructure and diversified sourcing.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to increase recycled content, reduce emissions, and improve water management. Early adopters of circular economy practices gain market share in regulated markets, while others continue business-as-usual in less-regulated areas.",
-      "Physical: More frequent supply disruptions, water shortages, and price volatility, especially in Asia and Africa. Companies must invest in adaptation, but most mills remain viable.",
+      "Transition Risks: Companies face moderate pressure to increase recycled content, reduce emissions, and improve water management. Early adopters of circular economy practices gain market share in regulated markets, while others continue business-as-usual in less-regulated areas.",
+      "Physical Risks: More frequent supply disruptions, water shortages, and price volatility, especially in Asia and Africa. Companies must invest in adaptation, but most mills remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most mills in developed markets must meet minimum sustainability standards for energy, water, and fiber sourcing. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia and Africa. Some older or high-risk mills are retired early.",
+      "Transition Risks: By 2050, most mills in developed markets must meet minimum sustainability standards for energy, water, and fiber sourcing. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia and Africa. Some older or high-risk mills are retired early.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic droughts, floods, and supply chain chaos become common. Insurance becomes unaffordable for many mills.",
-      "Physical: Major textile hubs (e.g., Bangladesh, India, China) face repeated disasters, leading to persistent fiber shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic droughts, floods, and supply chain chaos become common. Insurance becomes unaffordable for many mills.",
+      "Physical Risks: Major textile hubs (e.g., Bangladesh, India, China) face repeated disasters, leading to persistent fiber shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes."
     ]
   },
   "Sector: Apparel manufacturing": {
@@ -487,16 +490,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Physical risks are lower; supply chains are more stable, and water stress is less severe.",
-      "Transition risks are extremely high: rapid adoption of clean energy, water recycling, and sustainable fibers; strict compliance with emissions and labor standards.",
+      "Physical Risks: Minimal climate disruption at ~1.5°C. Apparel supply chains—especially in temperate zones—experience slight shifts in rainfall and temperature. Factory operations remain stable, with minor infrastructure adaptations for heat and water stress.",
+      "Transition Risks: Major overhaul in material sourcing and emissions disclosure. Brands face pressure to decarbonize fabrics, adopt circular production, and ensure fair labor standards. Carbon labels, recycling mandates, and low-impact dyes become mainstream.",
       "IEA STEPS:",
-      "Moderate physical risks: more frequent supply disruptions, water shortages, and price volatility.",
-      "Moderate transition risks: incremental tightening of standards and steady market evolution.",
+      "Physical Risks: At ~2.5°C, heat and flooding increase in production hotspots (e.g., South Asia), straining water resources, electricity demand, and worker conditions. Occasional supply disruptions affect delivery timelines and operating costs.",
+      "Transition Risks: ESG adoption is patchy. Some markets demand traceability and green sourcing, while others lag. Compliance costs rise slowly, and reputation-driven initiatives (e.g., climate-neutral lines) become brand differentiators. IPCC SSP2-4.5:",
       "IPCC SSP2-4.5:",
-      "Similar to STEPS: significant adaptation needed for chronic and acute risks, and moderate transition pressures.",
+      "Physical Risks: Around ~2.7°C warming, climate extremes challenge infrastructure in garment hubs—heatwaves impact worker safety, floods interrupt logistics, and water stress hampers dyeing and finishing processes.",
+      "Transition Risks: Pressure from regulators, investors, and consumers intensifies. Firms must disclose emissions, reduce waste, and pivot to regenerative fabrics. Global brands push suppliers for scope 3 data and compliance, squeezing smaller manufacturers.",
       "IPCC SSP5-8.5:",
-      "Severe physical risks: frequent disasters, fiber shortages, and operational chaos.",
-      "Transition risks are low initially, but late, reactive policy shifts may occur as crises escalate."
+      "Physical Risks: Severe warming (~4.4°C) leads to frequent heatwaves, chronic water shortages, and storm damage in apparel-producing regions. Worker safety declines, energy costs surge, and factories face shutdown risks.",
+      "Transition Risks: Most climate action is delayed, but abrupt global mandates emerge after crises—import restrictions, boycott threats, and regulatory crackdowns. Apparel firms lacking resilient, low-impact supply chains face steep penalties and brand erosion."
     ]
   },
   "Sector: Paper manufacturing": {
@@ -558,17 +562,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: The sector faces a rapid, mandatory shift to electrified and hydrogen-based processes. By 2030–2040, most new chemical plants must be designed for net-zero, and legacy plants face early retirement or expensive retrofits. Companies that fail to invest in green chemistry, carbon capture, and renewable energy risk being shut out of major markets (e.g., EU, US) due to carbon border taxes and customer requirements.",
-      "Physical: Physical risks are contained; major chemical hubs (e.g., US Gulf Coast, Rotterdam) invest heavily in flood defenses and water recycling, reducing downtime from storms and droughts. Insurance remains available, and supply chains are more resilient.",
+      "Transition Risks: The sector faces a rapid, mandatory shift to electrified and hydrogen-based processes. By 2030–2040, most new chemical plants must be designed for net-zero, and legacy plants face early retirement or expensive retrofits. Companies that fail to invest in green chemistry, carbon capture, and renewable energy risk being shut out of major markets (e.g., EU, US) due to carbon border taxes and customer requirements.",
+      "Physical Risks: Physical risks are contained; major chemical hubs (e.g., US Gulf Coast, Rotterdam) invest heavily in flood defenses and water recycling, reducing downtime from storms and droughts. Insurance remains available, and supply chains are more resilient.",
       "IEA STEPS:",
-      "Transition: Companies face a patchwork of carbon pricing and moderate emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green chemistry gain a competitive edge, but laggards can still operate in less-regulated regions.",
-      "Physical: More frequent storms and floods cause periodic shutdowns, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions (e.g., India, Middle East).",
+      "Transition Risks: Companies face a patchwork of carbon pricing and moderate emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green chemistry gain a competitive edge, but laggards can still operate in less-regulated regions.",
+      "Physical Risks: More frequent storms and floods cause periodic shutdowns, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions (e.g., India, Middle East).",
       "IPCC SSP2-4.5:",
-      "Transition: Similar to STEPS, but with slightly more global coordination. By 2050, most large chemical producers have diversified into green hydrogen and electrified processes, but fossil-based production persists in some regions. Companies that fail to decarbonize face higher financing costs and lose contracts with global brands.",
-      "Physical: Severe droughts and storms disrupt supply chains more often, especially in Asia and the US. Companies invest in water recycling and backup power, but some older plants in high-risk areas are retired early.",
+      "Transition Risks: Similar to STEPS, but with slightly more global coordination. By 2050, most large chemical producers have diversified into green hydrogen and electrified processes, but fossil-based production persists in some regions. Companies that fail to decarbonize face higher financing costs and lose contracts with global brands.",
+      "Physical Risks: Severe droughts and storms disrupt supply chains more often, especially in Asia and the US. Companies invest in water recycling and backup power, but some older plants in high-risk areas are retired early.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major chemical clusters (e.g., Houston, Shanghai) face repeated hurricane/flood disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive retrofits or closures, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major chemical clusters (e.g., Houston, Shanghai) face repeated hurricane/flood disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive retrofits or closures, catching unprepared companies off guard."
     ]
   },
   "Sector: Plastic and rubber products manufacturing": {
@@ -585,17 +589,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2040, single-use plastics are largely banned or must be fully recyclable/biodegradable in major markets (EU, US, China). Companies must invest in advanced recycling, bioplastics, and electrified production lines. Packaging and consumer goods firms that fail to meet recycled content mandates or carbon disclosure requirements lose contracts with global brands and retailers. Tire manufacturers must eliminate toxic additives and prove microplastic mitigation.",
-      "Physical: Physical risks are managed through major investments in flood defenses and water recycling at key plants. Supply chains are diversified to avoid climate hotspots.",
+      "Transition Risks: By 2030–2040, single-use plastics are largely banned or must be fully recyclable/biodegradable in major markets (EU, US, China). Companies must invest in advanced recycling, bioplastics, and electrified production lines. Packaging and consumer goods firms that fail to meet recycled content mandates or carbon disclosure requirements lose contracts with global brands and retailers. Tire manufacturers must eliminate toxic additives and prove microplastic mitigation.",
+      "Physical Risks: Physical risks are managed through major investments in flood defenses and water recycling at key plants. Supply chains are diversified to avoid climate hotspots.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to increase recycled content and reduce emissions, but fossil-based plastics remain widely used in many regions. Early adopters of circular economy practices gain market share in regulated markets, while others continue business-as-usual in less-regulated areas.",
-      "Physical: More frequent storms and floods cause periodic plant shutdowns and supply chain delays, especially in the US Gulf Coast and Southeast Asia. Water shortages occasionally disrupt production in the Middle East and India.",
+      "Transition Risks: Companies face moderate pressure to increase recycled content and reduce emissions, but fossil-based plastics remain widely used in many regions. Early adopters of circular economy practices gain market share in regulated markets, while others continue business-as-usual in less-regulated areas.",
+      "Physical Risks: More frequent storms and floods cause periodic plant shutdowns and supply chain delays, especially in the US Gulf Coast and Southeast Asia. Water shortages occasionally disrupt production in the Middle East and India.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most packaging and consumer goods in developed markets must meet minimum recycled content and recyclability standards. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia and the US. Companies invest in climate-proofing key facilities, but some older plants are retired early.",
+      "Transition Risks: By 2050, most packaging and consumer goods in developed markets must meet minimum recycled content and recyclability standards. Companies that fail to adapt lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia and the US. Companies invest in climate-proofing key facilities, but some older plants are retired early.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major plastics and rubber hubs (e.g., Houston, Southeast Asia) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven bans on single-use plastics and mandates for recycling force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major plastics and rubber hubs (e.g., Houston, Southeast Asia) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven bans on single-use plastics and mandates for recycling force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Cement manufacturing": {
@@ -628,17 +632,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: The sector faces a radical overhaul. By 2030–2040, most new cement plants must be designed for net-zero, with electrified or hydrogen-fueled kilns and CCS. Ordinary Portland cement is phased out for most uses; only low-carbon, blended, or carbon-captured cement is permitted in public procurement and export markets. Companies that fail to decarbonize or invest in breakthrough tech are shut out of major markets and face high carbon costs. The sector consolidates around efficient, climate-aligned players, and late adopters face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: The sector faces a radical overhaul. By 2030–2040, most new cement plants must be designed for net-zero, with electrified or hydrogen-fueled kilns and CCS. Ordinary Portland cement is phased out for most uses; only low-carbon, blended, or carbon-captured cement is permitted in public procurement and export markets. Companies that fail to decarbonize or invest in breakthrough tech are shut out of major markets and face high carbon costs. The sector consolidates around efficient, climate-aligned players, and late adopters face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Companies face moderate carbon pricing and incremental tightening of emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green cement gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions.",
+      "Transition Risks: Companies face moderate carbon pricing and incremental tightening of emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green cement gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major producers have diversified into low-carbon cement and adopted moderate decarbonization. Fossil-based production persists in some regions but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk plants are retired early or relocated.",
+      "Transition Risks: By 2050, most major producers have diversified into low-carbon cement and adopted moderate decarbonization. Fossil-based production persists in some regions but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk plants are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major cement-producing regions (e.g., Southeast Asia, Gulf Coast, Mediterranean) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major cement-producing regions (e.g., Southeast Asia, Gulf Coast, Mediterranean) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Primary metal manufacturing": {
@@ -671,17 +675,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: The sector faces a rapid, mandatory shift to hydrogen-based steelmaking, inert anode aluminum smelting, and widespread carbon capture. By 2030–2040, most new plants must be net-zero, and legacy blast furnaces and coal-fired smelters are retired early. Only producers with certified low-carbon metals retain contracts with automakers, construction, and electronics. Companies that fail to decarbonize or invest in breakthrough tech are shut out of global supply chains and face high carbon costs. The sector consolidates around efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: The sector faces a rapid, mandatory shift to hydrogen-based steelmaking, inert anode aluminum smelting, and widespread carbon capture. By 2030–2040, most new plants must be net-zero, and legacy blast furnaces and coal-fired smelters are retired early. Only producers with certified low-carbon metals retain contracts with automakers, construction, and electronics. Companies that fail to decarbonize or invest in breakthrough tech are shut out of global supply chains and face high carbon costs. The sector consolidates efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Companies face moderate carbon pricing and incremental tightening of emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green metals gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions.",
+      "Transition Risks: Companies face moderate carbon pricing and incremental tightening of emissions standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green metals gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic shutdowns and infrastructure damage, especially in coastal and riverine hubs. Water stress leads to occasional production cuts in arid regions.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major producers have diversified into green metals and adopted moderate decarbonization. Fossil-based production persists in some regions but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk plants are retired early or relocated.",
+      "Transition Risks: By 2050, most major producers have diversified into green metals and adopted moderate decarbonization. Fossil-based production persists in some regions but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk plants are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
-      "Physical: Major metal-producing regions (e.g., China, US Gulf Coast, Russia) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and water shortages cause repeated plant shutdowns and supply chain chaos. Insurance becomes unaffordable for many facilities.",
+      "Physical Risks: Major metal-producing regions (e.g., China, US Gulf Coast, Russia) face repeated disasters, leading to asset write-offs and relocation. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Computer and electronic product manufacturing": {
@@ -714,17 +718,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2040, electronics manufacturers must electrify factories, use renewable energy, and implement closed-loop water systems. Only suppliers with certified low-carbon, energy-efficient, and recyclable products retain contracts with global brands and governments. Factories in high-emission or water-stressed regions must upgrade or risk losing business. Companies that fail to decarbonize or secure traceable, low-carbon minerals are excluded from premium markets and face high carbon costs. The sector consolidates around efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: By 2030–2040, electronics manufacturers must electrify factories, use renewable energy, and implement closed-loop water systems. Only suppliers with certified low-carbon, energy-efficient, and recyclable products retain contracts with global brands and governments. Factories in high-emission or water-stressed regions must upgrade or risk losing business. Companies that fail to decarbonize or secure traceable, low-carbon minerals are excluded from premium markets and face high carbon costs. The sector consolidates efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Companies face moderate carbon pricing and incremental tightening of energy efficiency and recycling standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green electronics gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
+      "Transition Risks: Companies face moderate carbon pricing and incremental tightening of energy efficiency and recycling standards. Many continue to operate fossil-based plants but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green electronics gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major electronics manufacturers have adopted moderate decarbonization and circularity. Fossil-based production persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
+      "Transition Risks: By 2050, most major electronics manufacturers have adopted moderate decarbonization and circularity. Fossil-based production persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
-      "Physical: Major electronics hubs (e.g., Taiwan, China, US Southwest) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
+      "Physical Risks: Major electronics hubs (e.g., Taiwan, China, US Southwest) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Automobile manufacturing": {
@@ -757,17 +761,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2035, automakers must phase out ICE vehicle production in most major markets. Companies that fail to electrify their lineups, secure battery supply, and decarbonize factories are shut out of global markets and face high carbon costs. The sector consolidates around EV leaders, and late adopters face stranded assets, layoffs, and loss of social license. Supply chains must be fully traceable and low-carbon; laggards lose contracts with global brands and governments.",
-      "Physical: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: By 2030–2035, automakers must phase out ICE vehicle production in most major markets. Companies that fail to electrify their lineups, secure battery supply, and decarbonize factories are shut out of global markets and face high carbon costs. The sector consolidates around EV leaders, and late adopters face stranded assets, layoffs, and loss of social license. Supply chains must be fully traceable and low-carbon; laggards lose contracts with global brands and governments.",
+      "Physical Risks: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to electrify, improve efficiency, and decarbonize supply chains. ICE vehicles remain viable in some markets, but demand for EVs grows steadily. Early movers in EVs and green manufacturing gain market share, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
+      "Transition Risks: Companies face moderate pressure to electrify, improve efficiency, and decarbonize supply chains. ICE vehicles remain viable in some markets, but demand for EVs grows steadily. Early movers in EVs and green manufacturing gain market share, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most automakers in developed markets have electrified their fleets and decarbonized factories. ICE vehicles persist in some regions, but face declining demand and higher costs. Companies that fail to electrify or decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
+      "Transition Risks: By 2050, most automakers in developed markets have electrified their fleets and decarbonized factories. ICE vehicles persist in some regions, but face declining demand and higher costs. Companies that fail to electrify or decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
-      "Physical: Major auto manufacturing hubs (US, China, India, Mexico) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
+      "Physical Risks: Major auto manufacturing hubs (US, China, India, Mexico) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Electrical equipment, appliance, and component manufacturing": {
@@ -800,17 +804,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2040, manufacturers must electrify factories, use renewable energy, and implement closed-loop water systems. Only suppliers with certified low-carbon, energy-efficient, and recyclable products retain contracts with global brands and governments. Factories in high-emission or water-stressed regions must upgrade or risk losing business. Companies that fail to decarbonize or secure traceable, low-carbon minerals are excluded from premium markets and face high carbon costs. The sector consolidates around efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: By 2030–2040, manufacturers must electrify factories, use renewable energy, and implement closed-loop water systems. Only suppliers with certified low-carbon, energy-efficient, and recyclable products retain contracts with global brands and governments. Factories in high-emission or water-stressed regions must upgrade or risk losing business. Companies that fail to decarbonize or secure traceable, low-carbon minerals are excluded from premium markets and face high carbon costs. The sector consolidates efficient, climate-aligned players; late adopters face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; companies invest heavily in flood defenses, water recycling, and heat-resilient infrastructure. Most plants remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Companies face moderate carbon pricing and incremental tightening of energy efficiency and recycling standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green electronics gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
+      "Transition Risks: Companies face moderate carbon pricing and incremental tightening of energy efficiency and recycling standards. Many continue to operate fossil-based plants, but must gradually improve efficiency and reduce emissions to retain access to regulated markets. Early movers in green electronics gain a competitive edge, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic shutdowns and supply chain delays, especially in Asia and the US. Water stress leads to occasional production cuts in arid regions.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major electronics manufacturers have adopted moderate decarbonization and circularity. Fossil-based production persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
+      "Transition Risks: By 2050, most major electronics manufacturers have adopted moderate decarbonization and circularity. Fossil-based production persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia and the Americas. Some older or high-risk plants are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
-      "Physical: Major electronics hubs (e.g., Taiwan, China, US Southwest) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and supply chain chaos become common. Insurance becomes unaffordable for many factories.",
+      "Physical Risks: Major electronics hubs (e.g., Taiwan, China, US Southwest) face repeated disasters, leading to persistent supply shortages, price spikes, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Air transportation": {
@@ -844,17 +848,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2035–2040, airlines must renew fleets with ultra-efficient, SAF-compatible, or zero-emission aircraft. SAF blending mandates reach 50%+ by 2040, and carbon costs are high. Airlines that fail to decarbonize or invest in new technology lose access to major markets and face high operating costs. Short-haul flights are replaced by high-speed rail in many regions. Airports must invest in flood defenses and green infrastructure. The sector consolidates around climate leaders; laggards face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; airports invest in flood defenses and heat-resilient infrastructure. Most major hubs remain operable, and insurance is available for well-managed sites.",
+      "Transition Risks: By 2035–2040, airlines must renew fleets with ultra-efficient, SAF-compatible, or zero-emission aircraft. SAF blending mandates reach 50%+ by 2040, and carbon costs are high. Airlines that fail to decarbonize or invest in new technology lose access to major markets and face high operating costs. Short-haul flights are replaced by high-speed rail in many regions. Airports must invest in flood defenses and green infrastructure. The sector consolidates around climate leaders; laggards face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; airports invest in flood defenses and heat-resilient infrastructure. Most major hubs remain operable, and insurance is available for well-managed sites.",
       "IEA STEPS:",
-      "Transition: Airlines face moderate pressure to improve efficiency, blend SAF, and offset emissions. Older aircraft remain in service longer, but new purchases must meet stricter standards. Early movers in green aviation gain market share, but laggards can still operate in less-regulated regions. Some short-haul routes are lost to rail, but long-haul demand remains robust.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic airport closures and flight disruptions, especially in coastal and tropical regions. Airlines and airports must invest in adaptation, but most operations remain viable.",
+      "Transition Risks: Airlines face moderate pressure to improve efficiency, blend SAF, and offset emissions. Older aircraft remain in service longer, but new purchases must meet stricter standards. Early movers in green aviation gain market share, but laggards can still operate in less-regulated regions. Some short-haul routes are lost to rail, but long-haul demand remains robust.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic airport closures and flight disruptions, especially in coastal and tropical regions. Airlines and airports must invest in adaptation, but most operations remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most airlines in developed markets operate efficient, partially decarbonized fleets. SAF blending and emissions standards are widespread, but fossil-fuel aircraft persist in some regions. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, the US, and island nations. Some older or high-risk airports are retired early or relocated.",
+      "Transition Risks: By 2050, most airlines in developed markets operate efficient, partially decarbonized fleets. SAF blending and emissions standards are widespread, but fossil-fuel aircraft persist in some regions. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, the US, and island nations. Some older or high-risk airports are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and heatwaves become common. Insurance becomes unaffordable for many airports and airlines.",
-      "Physical: Major aviation hubs (e.g., Miami, Bangkok, Shanghai) face repeated disasters, leading to persistent flight cancellations, route closures, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and heatwaves become common. Insurance becomes unaffordable for many airports and airlines.",
+      "Physical Risks: Major aviation hubs (e.g., Miami, Bangkok, Shanghai) face repeated disasters, leading to persistent flight cancellations, route closures, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Rail transportation": {
@@ -888,17 +892,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2035–2040, most major rail networks are electrified or use hydrogen/battery locomotives. Diesel is phased out, especially for passenger and urban freight. Companies that fail to decarbonize lose access to public contracts and premium freight. Rail captures market share from trucking and short-haul aviation, but must invest heavily in grid upgrades, resilient infrastructure, and digital systems.",
-      "Physical: Physical risks are contained; companies invest in heat-resistant rails, flood defenses, and firebreaks. Most routes remain operable, and insurance is available for well-managed networks.",
+      "Transition Risks: By 2035–2040, most major rail networks are electrified or use hydrogen/battery locomotives. Diesel is phased out, especially for passenger and urban freight. Companies that fail to decarbonize lose access to public contracts and premium freight. Rail captures market share from trucking and short-haul aviation, but must invest heavily in grid upgrades, resilient infrastructure, and digital systems.",
+      "Physical Risks: Physical risks are contained; companies invest in heat-resistant rails, flood defenses, and firebreaks. Most routes remain operable, and insurance is available for well-managed networks.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to electrify main corridors and improve efficiency. Diesel persists on secondary lines, but new investments favor low-carbon tech. Early movers in green rail gain market share, but laggards can still operate in less-regulated regions.",
-      "Physical: More frequent floods, storms, and heatwaves cause periodic service disruptions and infrastructure damage, especially in coastal and riverine areas. Companies must invest in adaptation, but most networks remain viable.",
+      "Transition Risks: Companies face moderate pressure to electrify main corridors and improve efficiency. Diesel persists on secondary lines, but new investments favor low-carbon tech. Early movers in green rail gain market share, but laggards can still operate in less-regulated regions.",
+      "Physical Risks: More frequent floods, storms, and heatwaves cause periodic service disruptions and infrastructure damage, especially in coastal and riverine areas. Companies must invest in adaptation, but most networks remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major rail operators in developed markets have electrified main lines and adopted moderate decarbonization. Diesel persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk routes are retired early or relocated.",
+      "Transition Risks: By 2050, most major rail operators in developed markets have electrified main lines and adopted moderate decarbonization. Diesel persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk routes are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and wildfires become common. Insurance becomes unaffordable for many routes.",
-      "Physical: Major rail corridors (e.g., US Midwest, India, China) face repeated disasters, leading to persistent service interruptions, route closures, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and wildfires become common. Insurance becomes unaffordable for many routes.",
+      "Physical Risks: Major rail corridors (e.g., US Midwest, India, China) face repeated disasters, leading to persistent service interruptions, route closures, and operational chaos. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Truck transportation": {
@@ -931,17 +935,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2035–2040, most new trucks in major markets must be zero-emission (electric or hydrogen). Companies that fail to electrify fleets or invest in charging/fueling infrastructure lose contracts with major shippers and are banned from urban areas. Diesel trucks face high carbon taxes and rapid depreciation. The sector consolidates around climate leaders; laggards face stranded assets and loss of social license. Logistics hubs and depots must be upgraded for charging, and route planning is optimized for range and charging availability.",
-      "Physical: Physical risks are contained; companies invest in route diversification, climate-resilient depots, and advanced weather analytics. Most logistics networks remain operable, and insurance is available for well-managed fleets.",
+      "Transition Risks: By 2035–2040, most new trucks in major markets must be zero-emission (electric or hydrogen). Companies that fail to electrify fleets or invest in charging/fueling infrastructure lose contracts with major shippers and are banned from urban areas. Diesel trucks face high carbon taxes and rapid depreciation. The sector consolidates around climate leaders; laggards face stranded assets and loss of social license. Logistics hubs and depots must be upgraded for charging, and route planning is optimized for range and charging availability.",
+      "Physical Risks: Physical risks are contained; companies invest in route diversification, climate-resilient depots, and advanced weather analytics. Most logistics networks remain operable, and insurance is available for well-managed fleets.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to electrify fleets and improve efficiency. Diesel trucks remain viable in many regions, but early adopters of zero-emission vehicles gain contracts with climate-conscious shippers and urban delivery. Some older trucks are retired early, but most adapt incrementally. Charging and hydrogen infrastructure expands slowly, and fleet turnover is paced with normal replacement cycles.",
-      "Physical: More frequent floods, storms, and heatwaves cause periodic route closures and delivery delays, especially in coastal and riverine areas. Companies must invest in adaptation (e.g., elevated depots, alternative routes), but most networks remain viable.",
+      "Transition Risks: Companies face moderate pressure to electrify fleets and improve efficiency. Diesel trucks remain viable in many regions, but early adopters of zero-emission vehicles gain contracts with climate-conscious shippers and urban delivery. Some older trucks are retired early, but most adapt incrementally. Charging and hydrogen infrastructure expands slowly, and fleet turnover is paced with normal replacement cycles.",
+      "Physical Risks: More frequent floods, storms, and heatwaves cause periodic route closures and delivery delays, especially in coastal and riverine areas. Companies must invest in adaptation (e.g., elevated depots, alternative routes), but most networks remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most fleets in developed markets are partially electrified or use alternative fuels. Diesel persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium contracts and face higher insurance and financing costs. Circularity (battery recycling, vehicle remanufacturing) becomes more important.",
-      "Physical: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk routes are retired early or relocated.",
+      "Transition Risks: By 2050, most fleets in developed markets are partially electrified or use alternative fuels. Diesel persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium contracts and face higher insurance and financing costs. Circularity (battery recycling, vehicle remanufacturing) becomes more important.",
+      "Physical Risks: Severe weather and water stress cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk routes are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and wildfires become common. Insurance becomes unaffordable for many routes and depots.",
-      "Physical: Major trucking corridors (e.g., US Gulf Coast, India, China) face repeated disasters, leading to persistent service interruptions, route closures, and operational chaos. Road infrastructure deteriorates rapidly, and late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, heatwaves, and wildfires become common. Insurance becomes unaffordable for many routes and depots.",
+      "Physical Risks: Major trucking corridors (e.g., US Gulf Coast, India, China) face repeated disasters, leading to persistent service interruptions, route closures, and operational chaos. Road infrastructure deteriorates rapidly, and late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Sea transportation": {
@@ -975,17 +979,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2040–2050, nearly all new ships must run on zero-carbon fuels (ammonia, hydrogen, methanol, batteries). Ports require green bunkering and shore power. Companies that fail to decarbonize or retrofit fleets are excluded from major trade routes and face high carbon costs. The sector consolidates around climate leaders; laggards face stranded vessels and loss of market access. Shipping of fossil fuels declines sharply, while demand for green fuel and renewable cargoes rises.",
-      "Physical: Physical risks are contained; ports invest in flood defenses, elevated infrastructure, and climate-resilient logistics. Most major ports remain operable, and insurance is available for well-managed fleets.",
+      "Transition Risks: By 2040–2050, nearly all new ships must run on zero-carbon fuels (ammonia, hydrogen, methanol, batteries). Ports require green bunkering and shore power. Companies that fail to decarbonize or retrofit fleets are excluded from major trade routes and face high carbon costs. The sector consolidates around climate leaders; laggards face stranded vessels and loss of market access. Shipping of fossil fuels declines sharply, while demand for green fuel and renewable cargoes rises.",
+      "Physical Risks: Physical risks are contained; ports invest in flood defenses, elevated infrastructure, and climate-resilient logistics. Most major ports remain operable, and insurance is available for well-managed fleets.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to improve efficiency, blend low-carbon fuels, and offset emissions. Older ships remain in service longer, but new builds must meet stricter standards. Early movers in green shipping gain contracts with climate-conscious cargo owners, but laggards can still operate in less-regulated regions.",
-      "Physical: More frequent storms, floods, and droughts cause periodic port closures, canal restrictions, and shipping delays, especially in coastal and tropical regions. Companies must invest in adaptation, but most routes remain viable.",
+      "Transition Risks: Companies face moderate pressure to improve efficiency, blend low-carbon fuels, and offset emissions. Older ships remain in service longer, but new builds must meet stricter standards. Early movers in green shipping gain contracts with climate-conscious cargo owners, but laggards can still operate in less-regulated regions.",
+      "Physical Risks: More frequent storms, floods, and droughts cause periodic port closures, canal restrictions, and shipping delays, especially in coastal and tropical regions. Companies must invest in adaptation, but most routes remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major shipping lines operate partially decarbonized fleets. Zero-carbon fuels and efficiency standards are widespread, but fossil-fuel ships persist in some regions. Companies that fail to decarbonize lose access to premium cargo and face higher insurance and financing costs.",
-      "Physical: Severe weather, sea level rise, and droughts cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk ports are retired early or relocated.",
+      "Transition Risks: By 2050, most major shipping lines operate partially decarbonized fleets. Zero-carbon fuels and efficiency standards are widespread, but fossil-fuel ships persist in some regions. Companies that fail to decarbonize lose access to premium cargo and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather, sea level rise, and droughts cause more frequent disruptions, especially in Asia, Africa, and the Americas. Some older or high-risk ports are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and droughts become common. Insurance becomes unaffordable for many ships and ports.",
-      "Physical: Major shipping hubs (e.g., Shanghai, Rotterdam, Houston, Singapore) face repeated disasters, leading to persistent route closures, cargo delays, and operational chaos. Canal disruptions (Panama, Suez) become frequent. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, and droughts become common. Insurance becomes unaffordable for many ships and ports.",
+      "Physical Risks: Major shipping hubs (e.g., Shanghai, Rotterdam, Houston, Singapore) face repeated disasters, leading to persistent route closures, cargo delays, and operational chaos. Canal disruptions (Panama, Suez) become frequent. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Utilities": {
@@ -1019,17 +1023,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2035–2040, utilities must retire coal and most gas plants, invest massively in renewables, storage, and grid upgrades, and electrify heating and transport. Companies that fail to decarbonize or modernize grids lose regulatory approval and access to capital. Utilities must also invest in demand response, microgrids, and resilience. The sector consolidates around climate leaders; laggards face stranded assets and loss of social license.",
-      "Physical: Physical risks are contained; utilities invest in flood defenses, water recycling, and heat-resilient infrastructure. Most networks remain reliable, and insurance is available for well-managed assets.",
+      "Transition Risks: By 2035–2040, utilities must retire coal and most gas plants, invest massively in renewables, storage, and grid upgrades, and electrify heating and transport. Companies that fail to decarbonize or modernize grids lose regulatory approval and access to capital. Utilities must also invest in demand response, microgrids, and resilience. The sector consolidates climate leaders; laggards face stranded assets and loss of social license.",
+      "Physical Risks: Physical risks are contained; utilities invest in flood defenses, water recycling, and heat-resilient infrastructure. Most networks remain reliable, and insurance is available for well-managed assets.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to decarbonize, with gradual coal/gas phase-out and renewable integration. Early movers in renewables and grid modernization gain regulatory and market advantages, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
-      "Physical: More frequent storms, floods, and heatwaves cause periodic outages and infrastructure damage, especially in coastal and riverine areas. Utilities must invest in adaptation, but most networks remain viable.",
+      "Transition Risks: Companies face moderate pressure to decarbonize, with gradual coal/gas phase-out and renewable integration. Early movers in renewables and grid modernization gain regulatory and market advantages, but laggards can still operate in less-regulated regions. Some older plants are retired early, but most adapt incrementally.",
+      "Physical Risks: More frequent storms, floods, and heatwaves cause periodic outages and infrastructure damage, especially in coastal and riverine areas. Utilities must invest in adaptation, but most networks remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most utilities in developed markets have decarbonized generation portfolios and modernized grids. Fossil-based generation persists in some regions, but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
-      "Physical: Severe weather and water stress cause more frequent outages and infrastructure failures, especially in Asia, Africa, and the Americas. Some older or high-risk assets are retired early or relocated.",
+      "Transition Risks: By 2050, most utilities in developed markets have decarbonized generation portfolios and modernized grids. Fossil-based generation persists in some regions but faces declining demand and higher costs. Companies that fail to decarbonize lose access to premium markets and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and water stress cause more frequent outages and infrastructure failures, especially in Asia, Africa, and the Americas. Some older or high-risk assets are retired early or relocated.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, wildfires, and droughts become common. Insurance becomes unaffordable for many assets.",
-      "Physical: Major utility networks (e.g., US Gulf Coast, India, China) face repeated disasters, leading to persistent outages, asset write-offs, and operational chaos. Water shortages and heatwaves force rolling blackouts. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic storms, floods, wildfires, and droughts become common. Insurance becomes unaffordable for many assets.",
+      "Physical Risks: Major utility networks (e.g., US Gulf Coast, India, China) face repeated disasters, leading to persistent outages, asset write-offs, and operational chaos. Water shortages and heatwaves force rolling blackouts. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared companies off guard."
     ]
   },
   "Sector: Banking": {
@@ -1060,17 +1064,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: Banks face a rapid, mandatory shift in lending and investment portfolios. By 2030–2040, lending to fossil fuel, coal, and high-emission sectors is heavily penalized or prohibited. Banks must invest in climate risk analytics, green finance products, and robust disclosure systems. Those slow to adapt face regulatory penalties, loss of investor confidence, and stranded loan portfolios. Green lending and sustainable finance become core business lines, and banks that lead in transition finance gain market share and reputational advantage.",
-      "Physical: Physical risks are contained; disaster-driven defaults and asset value erosion are limited. Banks can continue to lend in most regions with manageable risk, and insurance remains available for most collateral.",
+      "Transition Risks: Banks face a rapid, mandatory shift in lending and investment portfolios. By 2030–2040, lending to fossil fuel, coal, and high-emission sectors is heavily penalized or prohibited. Banks must invest in climate risk analytics, green finance products, and robust disclosure systems. Those slow to adapt face regulatory penalties, loss of investor confidence, and stranded loan portfolios. Green lending and sustainable finance become core business lines, and banks that lead in transition finance gain market share and reputational advantage.",
+      "Physical Risks: Physical risks are contained; disaster-driven defaults and asset value erosion are limited. Banks can continue to lend in most regions with manageable risk, and insurance remains available for most collateral.",
       "IEA STEPS:",
-      "Transition: Banks face moderate pressure to green their portfolios, with incremental tightening of disclosure and capital requirements. Lending to high-emission sectors is still possible but increasingly scrutinized. Early movers in green finance gain market share, but laggards can still operate in less-regulated regions. Some legacy loan portfolios (e.g., coal, oil) become riskier but are not immediately stranded.",
-      "Physical: More frequent disasters and chronic climate stress cause periodic spikes in defaults and asset value erosion, especially in vulnerable regions. Banks must invest in climate risk management, but most portfolios remain viable.",
+      "Transition Risks: Banks face moderate pressure to green their portfolios, with incremental tightening of disclosure and capital requirements. Lending to high-emission sectors is still possible but increasingly scrutinized. Early movers in green finance gain market share, but laggards can still operate in less-regulated regions. Some legacy loan portfolios (e.g., coal, oil) become riskier but are not immediately stranded.",
+      "Physical Risks: More frequent disasters and chronic climate stress cause periodic spikes in defaults and asset value erosion, especially in vulnerable regions. Banks must invest in climate risk management, but most portfolios remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major banks in developed markets have partially greened their portfolios and improved climate risk management. Lending to high-emission sectors persists in some regions, but faces declining demand and higher costs. Banks that fail to adapt lose access to premium investors and face higher insurance and financing costs.",
-      "Physical: Severe weather and chronic climate stress cause more frequent spikes in defaults and asset value erosion, especially in Asia, Africa, and the Americas. Some regional loan portfolios become unviable.",
+      "Transition Risks: By 2050, most major banks in developed markets have partially greened their portfolios and improved climate risk management. Lending to high-emission sectors persists in some regions, but faces declining demand and higher costs. Banks that fail to adapt lose access to premium investors and face higher insurance and financing costs.",
+      "Physical Risks: Severe weather and chronic climate stress cause more frequent spikes in defaults and asset value erosion, especially in Asia, Africa, and the Americas. Some regional loan portfolios become unviable.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic disasters and chronic climate stress cause widespread defaults, asset value collapse, and operational chaos. Insurance becomes unaffordable for many assets.",
-      "Physical: Major banking markets (e.g., US, China, coastal Europe) face repeated disasters, leading to persistent loan losses, asset write-downs, and financial instability. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared banks off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic disasters and chronic climate stress cause widespread defaults, asset value collapse, and operational chaos. Insurance becomes unaffordable for many assets.",
+      "Physical Risks: Major banking markets (e.g., US, China, coastal Europe) face repeated disasters, leading to persistent loan losses, asset write-downs, and financial instability. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared banks off guard."
     ]
   },
   "Sector: Insurance": {
@@ -1101,17 +1105,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: Insurers must rapidly green their underwriting and investment portfolios. By 2030–2040, coverage for coal, oil, and high-emission industries is phased out. Insurers are required to conduct annual climate scenario analysis and meet strict disclosure and capital requirements. Product innovation (e.g., resilience insurance, renewable energy coverage) becomes a core business. Those slow to adapt face regulatory penalties, loss of investor confidence, and stranded portfolios.",
-      "Physical: Physical risks are contained; catastrophe losses plateau after 2040, and most risks remain insurable with adapted pricing and coverage. The protection gap narrows as adaptation and mitigation succeed.",
+      "Transition Risks: Insurers must rapidly green their underwriting and investment portfolios. By 2030–2040, coverage for coal, oil, and high-emission industries is phased out. Insurers are required to conduct annual climate scenario analysis and meet strict disclosure and capital requirements. Product innovation (e.g., resilience insurance, renewable energy coverage) becomes a core business. Those slow to adapt face regulatory penalties, loss of investor confidence, and stranded portfolios.",
+      "Physical Risks: Physical risks are contained; catastrophe losses plateau after 2040, and most risks remain insurable with adapted pricing and coverage. The protection gap narrows as adaptation and mitigation succeed.",
       "IEA STEPS:",
-      "Transition: Insurers face moderate pressure to green portfolios and improve climate risk management. Underwriting for high-emission sectors is still possible but increasingly scrutinized. Early movers in green insurance and adaptation products gain market share, but laggards can still operate in less-regulated regions. Some legacy portfolios (e.g., coal, oil) become riskier but are not immediately stranded.",
-      "Physical: More frequent disasters and chronic climate stress cause periodic spikes in claims and asset value erosion, especially in vulnerable regions. Some high-risk areas become difficult to insure affordably, but most markets remain viable.",
+      "Transition Risks: Insurers face moderate pressure to green portfolios and improve climate risk management. Underwriting for high-emission sectors is still possible but increasingly scrutinized. Early movers in green insurance and adaptation products gain market share, but laggards can still operate in less-regulated regions. Some legacy portfolios (e.g., coal, oil) become riskier but are not immediately stranded.",
+      "Physical Risks: More frequent disasters and chronic climate stress cause periodic spikes in claims and asset value erosion, especially in vulnerable regions. Some high-risk areas become difficult to insure affordably, but most markets remain viable.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most major insurers in developed markets have partially greened their portfolios and improved climate risk management. Underwriting for high-emission sectors persists in some regions, but faces declining demand and higher costs. Insurers that fail to adapt lose access to premium investors and face higher reinsurance and financing costs.",
-      "Physical: Severe weather and chronic climate stress cause more frequent spikes in claims and asset value erosion, especially in Asia, Africa, and the Americas. Some regional insurance markets become unviable.",
+      "Transition Risks: By 2050, most major insurers in developed markets have partially greened their portfolios and improved climate risk management. Underwriting for high-emission sectors persists in some regions, but faces declining demand and higher costs. Insurers that fail to adapt lose access to premium investors and face higher reinsurance and financing costs.",
+      "Physical Risks: Severe weather and chronic climate stress cause more frequent spikes in claims and asset value erosion, especially in Asia, Africa, and the Americas. Some regional insurance markets become unviable.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic disasters and chronic climate stress cause widespread claims, asset value collapse, and operational chaos. Insurance becomes unaffordable or unavailable for many assets and regions.",
-      "Physical: Major insurance markets (e.g., US, China, coastal Europe) face repeated disasters, leading to persistent losses, asset write-downs, and financial instability. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared insurers off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic disasters and chronic climate stress cause widespread claims, asset value collapse, and operational chaos. Insurance becomes unaffordable or unavailable for many assets and regions.",
+      "Physical Risks: Major insurance markets (e.g., US, China, coastal Europe) face repeated disasters, leading to persistent losses, asset write-downs, and financial instability. Late, crisis-driven policy shifts force abrupt, expensive changes, catching unprepared insurers off guard."
     ]
   },
   "Sector: Real estate": {
@@ -1145,17 +1149,17 @@
     ],
     "Implications Under Key Climate Scenarios": [
       "IEA NZE 2050:",
-      "Transition: By 2030–2040, all new buildings must be net-zero carbon and existing buildings must undergo deep retrofits (heat pumps, insulation, solar, batteries). Properties that fail to meet energy and emissions standards face fines, loss of occupancy permits, and rapid devaluation. Green certifications and climate resilience become prerequisites for financing and insurance. Developers and landlords that lead in decarbonization and resilience attract premium tenants, higher rents, and ESG-focused investors.",
-      "Physical: Physical risks are contained; chronic flooding, heat, and storm damage are limited by successful mitigation and adaptation. Most properties remain insurable and financeable, and the sector benefits from increased investor confidence in long-term value.",
+      "Transition Risks: By 2030–2040, all new buildings must be net-zero carbon and existing buildings must undergo deep retrofits (heat pumps, insulation, solar, batteries). Properties that fail to meet energy and emissions standards face fines, loss of occupancy permits, and rapid devaluation. Green certifications and climate resilience become prerequisites for financing and insurance. Developers and landlords that lead in decarbonization and resilience attract premium tenants, higher rents, and ESG-focused investors.",
+      "Physical Risks: Physical risks are contained; chronic flooding, heat, and storm damage are limited by successful mitigation and adaptation. Most properties remain insurable and financeable, and the sector benefits from increased investor confidence in long-term value.",
       "IEA STEPS:",
-      "Transition: Companies face moderate pressure to improve energy efficiency and resilience, with incremental tightening of codes and standards. Retrofitting is phased in over decades, and “brown” assets lose value more slowly. Early movers in green and resilient buildings gain market share, but laggards can still operate in less-regulated regions.",
-      "Physical: More frequent floods, storms, and heatwaves cause periodic property damage and insurance claims, especially in coastal and riverine areas. Insurance premiums rise, and some high-risk properties become difficult to insure or finance.",
+      "Transition Risks: Companies face moderate pressure to improve energy efficiency and resilience, with incremental tightening of codes and standards. Retrofitting is phased in over decades, and “brown” assets lose value more slowly. Early movers in green and resilient buildings gain market share, but laggards can still operate in less-regulated regions.",
+      "Physical Risks: More frequent floods, storms, and heatwaves cause periodic property damage and insurance claims, especially in coastal and riverine areas. Insurance premiums rise, and some high-risk properties become difficult to insure or finance.",
       "IPCC SSP2-4.5:",
-      "Transition: By 2050, most properties in developed markets must meet minimum sustainability and resilience standards. Properties that fail to adapt lose access to premium tenants, investors, and financing. Circularity (recycling, adaptive reuse) and resilience become more important.",
-      "Physical: Severe weather, sea level rise, and water stress cause more frequent property damage and market volatility, especially in Asia, Africa, and the Americas. Some older or high-risk properties are abandoned or repurposed.",
+      "Transition Risks: By 2050, most properties in developed markets must meet minimum sustainability and resilience standards. Properties that fail to adapt lose access to premium tenants, investors, and financing. Circularity (recycling, adaptive reuse) and resilience become more important.",
+      "Physical Risks: Severe weather, sea level rise, and water stress cause more frequent property damage and market volatility, especially in Asia, Africa, and the Americas. Some older or high-risk properties are abandoned or repurposed.",
       "IPCC SSP5-8.5:",
-      "Transition: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, storms, wildfires, and heatwaves become common. Insurance becomes unaffordable or unavailable for many properties.",
-      "Physical: Major real estate markets (coastal cities, wildfire zones, drought-prone regions) face repeated disasters, leading to persistent property value collapse, mortgage defaults, and “climate migration.” Late, crisis-driven policy shifts force abrupt, expensive retrofits or abandonment, catching unprepared owners off guard."
+      "Transition Risks: The sector enjoys a short-term boom with minimal regulation, but by 2040–2050, catastrophic floods, storms, wildfires, and heatwaves become common. Insurance becomes unaffordable or unavailable for many properties.",
+      "Physical Risks: Major real estate markets (coastal cities, wildfire zones, drought-prone regions) face repeated disasters, leading to persistent property value collapse, mortgage defaults, and “climate migration.” Late, crisis-driven policy shifts force abrupt, expensive retrofits or abandonment, catching unprepared owners off guard."
     ]
   }
 }
