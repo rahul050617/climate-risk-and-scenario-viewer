@@ -44,7 +44,7 @@
     ]
   },
   "Sector: Animal production": {
-    "Sector Summary\nThe Animal Production sector includes farms, ranches, and feedlots that raise animals for meat, dairy, eggs, and other products. It covers grazing, breeding, and feeding animals in diverse environments, from open pastures to confined operations. The sector is a major contributor to food security and rural economies but is highly exposed to climate risks due to its dependence on feed, water, and animal health.": [],
+    "Sector Summary":["The Animal Production sector includes farms, ranches, and feedlots that raise animals for meat, dairy, eggs, and other products. It covers grazing, breeding, and feeding animals in diverse environments, from open pastures to confined operations. The sector is a major contributor to food security and rural economies but is highly exposed to climate risks due to its dependence on feed, water, and animal health."],
     "Physical Risks": [
       "Heat Stress: Rising average temperatures reduce feed intake, growth, and fertility in livestock, especially cattle and dairy animals.",
       "Water Scarcity: Drier conditions and higher evaporation increase water needs for animals and reduce pasture productivity.",
@@ -552,8 +552,19 @@
     "Sector Summary": [
       "The chemical manufacturing sector produces basic and specialty chemicals, fertilizers, plastics, and industrial gases. It is highly energy- and emissions-intensive, with complex global supply chains and significant reliance on water and fossil fuels."
     ],
-    "Physical Risks": [],
-    "Transition Risks": [],
+    "Physical Risks": [
+      "Flooding: extreme rainfall or storm surges affecting plant operations and supply chains.",
+      "Cyclones and hurricanes damaging infrastructure, storage tanks, and transport routes.",
+      "Rising temperatures increasing cooling costs and affecting chemical reaction efficiencies.",
+      "Water scarcity impacting operations that rely heavily on water for processing and cooling."
+    ],
+    "Transition Risks": [
+      "Stricter emissions regulations (e.g., carbon pricing, cap-and-trade systems) increasing operational costs.",
+      "Bans or restrictions on certain chemicals or processes due to environmental concerns.",
+      "Shifts in customer preferences toward low-carbon or biodegradable products.",
+      "Volatility in raw material prices due to carbon taxes or supply chain disruptions.",
+      "High capital investment required for transitioning to sustainable production methods."
+    ],
     "Scenario Descriptions": [
       "IEA NZE 2050: Net-zero by 2050, 1.5°C warming. High transition risk, lower physical risk.",
       "IEA STEPS: Current policies only, ~2.5°C warming. Moderate risks.",
@@ -579,8 +590,19 @@
     "Sector Summary": [
       "This sector produces packaging, consumer goods, tires, pipes, and industrial components from plastics and rubber. It is highly dependent on petrochemical feedstocks, water, and energy, and is under growing pressure to reduce waste and emissions."
     ],
-    "Physical Risks": [],
-    "Transition Risks": [],
+    "Physical Risks": [
+      "Flooding and storms can damage manufacturing plants, especially those near coasts or rivers.",
+      "Heatwaves may disrupt operations, degrade product quality, and increase cooling costs.",
+      "Rising temperatures can affect the stability of raw materials (e.g., polymers) and increase energy demand for cooling.",
+      "Water stress may impact operations that rely on water-intensive processes like cooling and cleaning."
+    ],
+    "Transition Risks": [
+      "Bans or restrictions on single-use plastics and non-recyclable rubber products.",
+      "Carbon pricing increasing costs of fossil fuel-derived raw materials.",
+      "Extended Producer Responsibility (EPR) regulations requiring manufacturers to manage end-of-life product disposal.",
+      "Shifting consumer demand toward biodegradable, recyclable, or bio-based alternatives.",
+      "Need for investment in cleaner production technologies (e.g., low-emission molding, solvent-free processes)."
+    ],
     "Scenario Descriptions": [
       "IEA NZE 2050: Net-zero by 2050, 1.5°C warming. High transition risk, lower physical risk.",
       "IEA STEPS: Current policies only, ~2.5°C warming. Moderate risks.",
